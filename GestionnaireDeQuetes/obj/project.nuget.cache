@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "a4e6giPMRgo=",
+  "dgSpecHash": "T7ZPdicjDGs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\champ\\Gestionnaire-de-quetes\\GestionnaireDeQuetes\\GestionnaireDeQuetes.csproj",
-=======
-  "dgSpecHash": "67IDjwnGTVQ=",
-  "success": true,
-  "projectFilePath": "C:\\ecole\\2 années\\poo\\Gestionnaire-de-quetes\\GestionnaireDeQuetes\\GestionnaireDeQuetes.csproj",
->>>>>>> 71414c065aefabb8708c49f4a54ed18fa59bbf57
+  "projectFilePath": "C:\\Users\\gabri\\Gestionnaire-de-quetes\\GestionnaireDeQuetes\\GestionnaireDeQuetes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -7,27 +7,9 @@ C:\Users\gabri\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\Ges
 C:\Users\gabri\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.AssemblyInfoInputs.cache
 C:\Users\gabri\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.AssemblyInfo.cs
 C:\Users\gabri\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.sourcelink.json
 C:\Users\gabri\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.dll
 C:\Users\gabri\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\refint\GestionnaireDeQuetes.dll
 C:\Users\gabri\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.pdb
 C:\Users\gabri\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.genruntimeconfig.cache
 C:\Users\gabri\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\ref\GestionnaireDeQuetes.dll
-<<<<<<< HEAD
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\bin\Debug\net10.0\GestionnaireDeQuetes.exe
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\bin\Debug\net10.0\GestionnaireDeQuetes.deps.json
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\bin\Debug\net10.0\GestionnaireDeQuetes.runtimeconfig.json
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\bin\Debug\net10.0\GestionnaireDeQuetes.dll
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\bin\Debug\net10.0\GestionnaireDeQuetes.pdb
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.AssemblyInfoInputs.cache
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.AssemblyInfo.cs
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.csproj.CoreCompileInputs.cache
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.sourcelink.json
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.dll
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\refint\GestionnaireDeQuetes.dll
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.pdb
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.genruntimeconfig.cache
-C:\Users\champ\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\ref\GestionnaireDeQuetes.dll
-=======
-C:\Users\gabri\Gestionnaire-de-quetes\GestionnaireDeQuetes\obj\Debug\net10.0\GestionnaireDeQuetes.sourcelink.json
->>>>>>> 71414c065aefabb8708c49f4a54ed18fa59bbf57

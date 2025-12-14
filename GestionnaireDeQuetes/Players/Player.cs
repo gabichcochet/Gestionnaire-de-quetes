@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using GestionnaireDeQuetes.Interfaces;
 
 namespace GestionnaireDeQuetes.Players

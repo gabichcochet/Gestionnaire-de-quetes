@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using GestionnaireDeQuetes.Interfaces;
 using GestionnaireDeQuetes.Models;
 using GestionnaireDeQuetes.Players;
