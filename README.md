@@ -39,10 +39,15 @@ Le projet est organisé en plusieurs dossiers :
 
 ```bash
 git clone https://github.com/ton-compte/GestionnaireDeQuetes.git
-cd ./GestionnaireDeQuetes/
 ```
 
 ### 3 lancer le projet
+
+- Placez vous dans le dossier du code
+
+```bash
+cd ./GestionnaireDeQuetes/
+```
 
 - Restaurer les dépendances 
 
