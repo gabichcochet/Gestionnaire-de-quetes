@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestionnaireDeQuetes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15ad3b0c63b64ea86a24b924b313a842a82c2a1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71414c065aefabb8708c49f4a54ed18fa59bbf57")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestionnaireDeQuetes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestionnaireDeQuetes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
