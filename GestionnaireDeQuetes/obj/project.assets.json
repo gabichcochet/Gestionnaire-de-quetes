@@ -8,24 +8,31 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gabri\\.nuget\\packages\\": {}
+    "C:\\Users\\willi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\Gestionnaire-de-quetes\\GestionnaireDeQuetes\\GestionnaireDeQuetes.csproj",
+      "projectUniqueName": "C:\\ecole\\2 années\\poo\\Gestionnaire-de-quetes\\GestionnaireDeQuetes\\GestionnaireDeQuetes.csproj",
       "projectName": "GestionnaireDeQuetes",
-      "projectPath": "C:\\Users\\gabri\\Gestionnaire-de-quetes\\GestionnaireDeQuetes\\GestionnaireDeQuetes.csproj",
-      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\Gestionnaire-de-quetes\\GestionnaireDeQuetes\\obj\\",
+      "projectPath": "C:\\ecole\\2 années\\poo\\Gestionnaire-de-quetes\\GestionnaireDeQuetes\\GestionnaireDeQuetes.csproj",
+      "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+      "outputPath": "C:\\ecole\\2 années\\poo\\Gestionnaire-de-quetes\\GestionnaireDeQuetes\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
