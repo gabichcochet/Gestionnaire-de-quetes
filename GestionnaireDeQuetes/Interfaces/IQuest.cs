@@ -1,12 +1,15 @@
-using Game.Players;
-using Game.Rewards;
+using GestionnaireDeQuetes.Models;
+using GestionnaireDeQuetes.Players;
 
-namespace Game.Quests
+namespace GestionnaireDeQuetes.Interfaces
 {
     public interface IQuest
-    {
-        void Complete(Player player);
-        int CalculateXp();
+    {        
+        string Title { get; }
+        string Description { get; }
+
+        int CalculateXP();
         Reward GetReward();
+        void Complete(Player player);
     }
 }
