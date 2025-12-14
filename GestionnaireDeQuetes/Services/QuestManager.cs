@@ -5,28 +5,22 @@ namespace GestionnaireDeQuetes.Services
 {
     public class QuestManager
     {
-        public List<IQuest> Quests { get; set; }
-        public List<Player> Players { get; set; }
-
-        public QuestManager()
-        {
-            Quests = new List<IQuest>();
-            Players = new List<Player>();
-        }
+        public List<IQuest> Quests { get; } = new();
+        public List<Player> Players { get; } = new();
 
         public void AddQuest(IQuest quest)
         {
             Quests.Add(quest);
         }
 
-        public void RemoveQuest(IQuest quest)
-        {
-            Quests.Remove(quest);
-        }
-
         public void AssignQuestToPlayer(Player player, IQuest quest)
         {
-            player.AddQuest(quest);
+            player.ActiveQuests.Add(quest);
+        }
+
+        public Player? GetPlayerById(int id)
+        {
+            return Players.FirstOrDefault(p => p.Id == id);
         }
 
         public List<IQuest> GetPlayerQuests(Player player)

@@ -1,36 +1,36 @@
-using GestionnaireDeQuetes.Interfaces;
+using System;
 
 namespace GestionnaireDeQuetes.Models
 {
     public class Player
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
         public int Experience { get; private set; }
+        public int Gold { get; private set; }
+        public string Name { get; }
 
-        public List<IQuest> ActiveQuests { get; set; }
-
-        public Player(int id, string name)
+        public Player(string name)
         {
-            Id = id;
             Name = name;
-            ActiveQuests = new List<IQuest>();
+            Experience = 0;
+            Gold = 0;
         }
 
-        public void AddQuest(IQuest quest)
+        public void AddExperience(int amount)
         {
-            ActiveQuests.Add(quest);
+            if (amount > 0)
+            {
+                Experience += amount;
+                Console.WriteLine($"🎉 {Name} a gagné {amount} XP. Total: {Experience}");
+            }
         }
 
-        public void CompleteQuest(IQuest quest)
+        public void AddGold(int amount)
         {
-            quest.Complete(this);
-            ActiveQuests.Remove(quest);
-        }
-
-        public void GainXP(int amount)
-        {
-            Experience += amount;
+            if (amount > 0)
+            {
+                Gold += amount;
+                Console.WriteLine($"💰 {Name} a gagné {amount} pièces d'or. Total: {Gold}");
+            }
         }
     }
 }
